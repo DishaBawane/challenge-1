@@ -1,0 +1,97 @@
+*,body,html{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    font-family: "Montserrat","sans-serif";
+}
+
+header{
+    background: #1C6EFF;
+    width:100%;
+    height:200px;
+    padding: 15px 10px;
+    
+    
+}
+.container{
+    max-width:1024px;
+    margin:0 auto;
+}
+
+.profile-img{
+   
+    border-radius: 100%;
+    width:110px;
+    height:110px;
+}
+
+.header-content{
+    float:right;
+    text-align: right;
+    color:#f3f3f3;
+    margin-right: 10px;
+    margin-bottom: 20px;
+  
+    
+}
+h1{
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom:6px;
+}
+
+.skills-section{
+    width:100%;
+    height:max-content;
+}
+
+.skill-card{
+    width: 22%;
+    color:rgb(10,10,10);
+    padding: 30px 10;
+    margin:10px 20px;
+    float:right;
+}
+
+.skill-image{
+    width:100%;
+}
+
+.skill-title{
+    margin-top:10px;
+}
+
+.clear-fix{
+    clear:both
+}
+
+.skill-description{
+    margin-top: 5px;
+}
+
+.about-section{
+    text-align:center;
+}
+
+.about-content{
+    text-align: left;
+    width:60%;
+    margin:0 auto;
+}
+
+footer{
+    txt-align:center;
+}
+
+.footer-content{
+    margin:30px auto;
+
+}
+.footer-label{
+    font-weight:600;
+    margin-bottom: 15px;
+}
+.margin-fix{
+    height:20px;
+    width:100%
+}
