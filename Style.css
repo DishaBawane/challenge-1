@@ -8,7 +8,7 @@
 header{
     background: #1C6EFF;
     width:100%;
-    height:200px;
+    height:140px;
     padding: 15px 10px;
     
     
@@ -42,14 +42,13 @@ h1{
 
 .skills-section{
     width:100%;
-    height:max-content;
+    /*height:max-content;*/
 }
 
 .skill-card{
-    width: 22%;
+    width: 33%;
     color:rgb(10,10,10);
-    padding: 30px 10;
-    margin:10px 20px;
+    padding: 30px 20px;
     float:right;
 }
 
@@ -80,10 +79,12 @@ h1{
 }
 
 footer{
-    txt-align:center;
+    text-align: center;
 }
 
 .footer-content{
+
+    text-align: center;
     margin:30px auto;
 
 }
