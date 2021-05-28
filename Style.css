@@ -96,3 +96,7 @@ footer{
     height:20px;
     width:100%
 }
+a:link {
+    text-decoration: none;
+  }
+  
