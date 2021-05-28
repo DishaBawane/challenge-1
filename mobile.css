@@ -32,11 +32,12 @@ header{
 
 .about-content{
 
-    padding:15px;
+    padding-left: 25px;
+    padding-right: 25px;
    
 }
 footer{
-    padding: 15px;
+    padding-bottom: 25px;
 }
 
 
