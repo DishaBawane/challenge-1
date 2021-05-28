@@ -1,0 +1,41 @@
+
+.container{
+    max-width:100%;
+   
+}
+
+.header-content{
+    float:none;
+    text-align: center;
+      
+}
+
+header{
+     height:200px;
+
+      
+}
+
+.profile-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.skill-card{
+ 
+    float:none;
+    width:100%;
+}
+
+/*.about-content{
+
+    width:100%;
+  
+ 
+}*/
+
+
+
