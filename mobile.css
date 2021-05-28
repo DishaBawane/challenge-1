@@ -30,12 +30,14 @@ header{
     width:100%;
 }
 
-/*.about-content{
+.about-content{
 
-    width:100%;
-  
- 
-}*/
+    padding:15px;
+   
+}
+footer{
+    padding: 15px;
+}
 
 
 
