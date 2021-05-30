@@ -9,7 +9,8 @@ header{
     background: #1C6EFF;
     width:100%;
     height:140px;
-    padding: 15px 10px;
+    padding: 15px 10px 15px 60px;
+    /*padding-left: 70px;*/
     
     
 }
@@ -23,6 +24,7 @@ header{
     border-radius: 100%;
     width:110px;
     height:110px;
+  
 }
 
 .header-content{
@@ -31,8 +33,7 @@ header{
     color:#f3f3f3;
     margin-right: 10px;
     margin-bottom: 20px;
-  
-    
+   
 }
 h1{
     font-size: 36px;
@@ -80,6 +81,7 @@ h1{
 
 footer{
     text-align: center;
+    padding-bottom: 25px;
 }
 
 .footer-content{
